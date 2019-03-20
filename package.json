@@ -1,0 +1,13 @@
+{
+  "name": "infant",
+  "version": "0.0.1",
+  "main": "server.js", 
+  "main"         : "server.js",
+  "dependencies" : {
+    "express"    : "~4.16.4",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RuahGim/infant.git"
+  }
+}
